@@ -4,8 +4,10 @@ Este es un proyecto que emprendí para recrear la interfaz de usuario de la pág
 Estructura del Proyecto 📂
 El proyecto está dividido en tres secciones principales:
 
-☄️Nav Bar: Aquí se encuentra la barra de búsqueda junto con acceso a las aplicaciones de Google y opciones de cuenta de usuario.
+☄️Nav Bar: Aquí se encuentra la barra de búsqueda junto con acceso a las aplicaciones de Google y opciones de cuenta de usuario. 
+
 ☄️Main: Esta sección contiene el logo de Google y la barra de búsqueda central, imitando la funcionalidad principal de la página de Google.
+
 ☄️Footer: Incluye enlaces a términos de servicio y privacidad, replicando el pie de página de Google.
 
 Tecnologías Utilizadas 💻
